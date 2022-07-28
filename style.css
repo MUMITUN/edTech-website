@@ -25,3 +25,56 @@
     font-size: 50px;
     
 }
+
+.foot{
+
+   font-size: 20px;
+   background-color: black;
+   padding-top: 70px;
+   padding-bottom: 70px;
+   
+}
+
+.fa-facebook-square{
+   color: gray;
+       
+
+}
+.fa-whatsapp{
+   color: gray;
+}
+.fa-instagram{
+   color: gray;
+
+}
+.fa-twitter{
+    color: gray;
+ 
+ }
+.icon-foot{
+   display: flex;
+   padding: 0 40%;
+}
+
+
+nav ul{
+   display:flex;
+   padding: 0 20%;
+}
+
+nav li{
+   list-style: none;
+   margin-right: 20px;
+   padding: 0px 10px;
+   
+}
+nav li:hover{
+   background-color: rgb(228, 225, 225);
+}
+
+nav li a{
+   text-decoration: none;
+   color:rgb(165, 162, 162);
+   font-size: 15px
+
+}
